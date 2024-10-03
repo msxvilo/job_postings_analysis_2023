@@ -107,6 +107,7 @@ Here's the brakdown of the most demanded skills for the top 10 highest paying Da
 - **Kubernetes** cloud platform
 
 ![Top Paying Skills](assets/Skills_Required_for_Top_Paying_Jobs.png)
+
 *Bar graph visualizing the top paying 10 skills for Data Engineer: Gemini generated this graph from my SQL query results*
 
 ### 3. Most In-Demand Skills
